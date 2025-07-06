@@ -1,0 +1,5 @@
+gameplaysettings={
+	difficulty="hard"
+	ironman=0
+	historical=0
+}
