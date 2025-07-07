@@ -1,0 +1,26 @@
+# Crash Information
+AppName: HOI4 
+AppVersion: Countenance v1.16.9.8bdd 
+SCMBranch: HEAD 
+SCMCommit: 8bddfe765c772d16a68eef4ced04c5c0b95286be 
+SCMTimeStamp: "2025-06-11 10:29:22 +0000" 
+DateTime: "2025-07-07 06:35:37 +0300" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 10 x86_64 
+SystemLanguage: ru 
+CPUModel: AMD Ryzen 5 7500F 6-Core Processor              
+CPUSpeed: 0 
+CPUPhysicalCores: 6 
+CPULogicalCores: 12 
+SystemMemory: 32333 
+LaunchArguments: --gdpr-compliant 
+
+# Application Specific Data 
+IsLiveBuild: true 
+DataChecksum: 25bafd85b303013b46636b852d5125d0
+AppChecksum: d41d8cd98f00b204e9800998ecf8427e
+HasMods: true
+Mods: Road to 56 : Expanded The Road to 56
+IsOldSave: false
